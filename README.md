@@ -17,7 +17,7 @@ It includes layouts, themes, and widget resources to showcase how UI components 
 
 Here’s how the MyWidget app looks on the home screen:
 
-![Simple_UI_Builder Screenshot](Images/Simple_UI_Builde.png)
+![Simple_UI_Builder Screenshot](ImagesSimple_UI_Builder.png)
 
 ---
 ## 🛠 Project Structure
