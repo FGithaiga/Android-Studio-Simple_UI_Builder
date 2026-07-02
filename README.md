@@ -13,7 +13,13 @@ It includes layouts, themes, and widget resources to showcase how UI components 
 - Example unit and instrumented tests
 
 ---
+## 📸 Screenshots
 
+Here’s how the MyWidget app looks on the home screen:
+
+![Simple_UI_Builder Screenshot](Images/Simple_UI_Builde.png)
+
+---
 ## 🛠 Project Structure
 - `app/src/main/java/` → Kotlin source code (`MainActivity.kt`, `widget_layout.kt`)
 - `app/src/main/res/` → XML resources (layouts, drawables, mipmaps, values, themes, styles)
